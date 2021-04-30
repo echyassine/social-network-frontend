@@ -74,10 +74,17 @@
     border-radius: 50%;
     color: white;
     position:absolute;
-    margin-right: -5px;
+    right: -5px;
+    top: -5px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 
 }
 .topbarImage{
     height: 32px;
     width: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
 }
