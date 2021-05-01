@@ -11,7 +11,7 @@
     background-color: white;
 }
 ::-webkit-scrollbar-thumb{
-    background-color: blue;
+    background-color:darkgray;
 }
 
 .sidebarWrapper{

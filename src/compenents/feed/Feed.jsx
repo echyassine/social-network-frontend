@@ -9,6 +9,10 @@ function Feed() {
             <div className="Wrapper">
                   <Share/>
                   <Post/>
+                  <Post/>
+                  <Post/>
+                  <Post/>
+                  <Post/>
             </div>
       </div>
     );

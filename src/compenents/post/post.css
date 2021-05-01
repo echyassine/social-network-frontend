@@ -39,3 +39,22 @@
     border-radius: 10px;
     object-fit: cover;
 }
+.postBottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.aimer{
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+}
+.postBottomLeft{
+    display: flex;
+    align-items: center;  
+    margin-right: 5px; 
+}
+.nombreAimer{
+    font-size: 20px;
+    color: blue;
+}
