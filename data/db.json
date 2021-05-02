@@ -1,0 +1,26 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "test@gmail.com",
+        "password": "12345"
+      },
+      {
+        "id": 2,
+        "email": "test1@gmail.com",
+        "password": "12345"
+      }
+    ],
+    "comments": [
+        {
+          "id": 1,
+          "email": "test@gmail.com",
+          "password": "12345"
+        },
+        {
+          "id": 2,
+          "email": "test1@gmail.com",
+          "password": "12345"
+        }
+      ]
+  }
